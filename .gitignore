@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+
+src/secrets.py
+
+*.uf2
